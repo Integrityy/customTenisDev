@@ -1,3 +1,0 @@
-# customTenisDev
-
-Modificacion del .readme
