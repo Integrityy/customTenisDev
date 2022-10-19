@@ -596,7 +596,7 @@ ul.cart-list > li.total {
 }
 .sale p{color: #fff;font-weight: 500;font-size:14px;line-height: 2.2;}
 
-.sale.bg-1{background: #d8924c;}
+.sale.bg-1{background: rgb(56, 192, 165);}
 .sale.bg-2{background: rgb(18, 111, 193);}
 
 .new-arrival-cart {
