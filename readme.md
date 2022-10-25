@@ -1,3 +1,3 @@
 # Custom Tenis Page
 
-Hola esto es una prueba del readme
+Este es un proyecto de ambito estudiantil pagina basada en tenis y su customisacion
